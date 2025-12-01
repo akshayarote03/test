@@ -11,4 +11,4 @@ COPY . .
 RUN npm install
 
 #Run the code
-CMD ["node","app.js"]
+CMD ["node", "app.js"]
